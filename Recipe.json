@@ -1,0 +1,22 @@
+{
+    "bucket_1": {
+      "Food_Name": "CheeseBurger",
+      "recipe": "amazingwoman@test.com",
+      "chalories": "Green",
+      "birthday": "12/12/20"
+    },
+    "bucket_5": {
+      "Food_Name": "CheeseBurger",
+      "recipe": "amazingwoman@test.com",
+      "chalories": "Green",
+      "birthday": "12/12/20"
+    },
+      "bucket_2": {
+
+        "Food_Name": "CheeseBurger",
+        "recipe": "amazingwoman@test.com",
+        "chalories": "Green",
+        "birthday": "12/12/20"
+
+}
+}
