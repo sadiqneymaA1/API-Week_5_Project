@@ -3,7 +3,7 @@ const swaggerAutogen = require('swagger-autogen')();
 const doc = {
   info: {
     title: 'My API',
-    description: 'Contacts Project',
+    description: 'Recipee Project',
   },
  //test for localhost host: 'localhost:3000',
 //   host: 'personal-test1.herokuapp.com',

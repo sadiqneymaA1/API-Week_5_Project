@@ -12,12 +12,27 @@ POST http://localhost:3000/contacts HTTP/1.1
 content-type: application/json
 
 {
-    "firstName":"Sadiiiiii",
-    "lastName":"DONNN",
-    "email":"aWeaver@test.com",
-    "favoriteColor":"Brown",
-    "birthday":"06/19/2000"
+    "Food_Name": "Fried Rice",
+        "Ingredients": "⅔ cup chopped baby carrots ½ cup frozen green peas  2 tablespoons vegetable oil 1 clove garlic, minced, or to taste (Optional) 2 large eggs 3 cups leftover cooked white rice 1 tablespoon soy sauce, or more to taste 2 teaspoons sesame oil, or to taste",
+        "Calories": "280",
+        "Direction": "Place carrots in a small saucepan and cover with water. Bring to a low boil and cook for 3 to 5 minutes. Stir in peas, then immediately drain in a colander. Step 2 Heat a wok over high heat. Pour in vegetable oil, then stir in carrots, peas, and garlic; cook for about 30 seconds. Add eggs; stir quickly to scramble eggs with vegetables. Step 3 Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again."
 }
+
+{
+    "Food_Name": "CheeseBurger",
+      "Ingredients": "Ingredients 1 lb. ground beef (80/20) 1 lb. ground sirloin (90/10) 1 tbsp. Worcestershire sauce 1 tsp. kosher salt 1 tsp. ground black pepper 1 tbsp. vegetable oil 4 toasted hamburger buns Optional toppings: American cheese, shredded iceburg lettuce, sliced tomato, sliced red onion, dill pickle slices, ketchup, mustard, and mayonnaise",
+      "calories": "345",
+      "Direction": "Combine the ground beef, ground sirloin, Worcestershire sauce, salt, and pepper in a large bowl. Gently mix the beef mixture to thoroughly combine with the seasoning. Divide the mixture into 4 even portions, about 8 ounces each. Pat each portion into a ball (but not too tightly), then press into one-inch thick patties. On the stovetop: Heat a large cast-iron skillet over medium-high heat. Add 1 tablespoon of vegetable oil and swirl to coat the pan. Place the patties in the skillet and let cook for 3 to 4 minutes until golden and crusty. Flip and cook the other side until the internal temperature of the burger reaches 135˚ (for medium doneness), about 3 more minutes. If you like cheese on your burgers, add it during the last minute of cooking, then cover to melt. Alternatively cook on the grill: Preheat your grill over medium-high heat, 400 to 425˚. Oil the grill grates. Place the patties on the grill over direct heat. Cook for 3 to 4 minutes per side, covered, or until the internal temperature reads 135˚ (for medium doneness). If you like cheese on your burgers, add it during the last minute of cooking, then cover to melt.Serve immediately on toasted buns with whatever toppings you like!"
+}
+
+{
+   "Food_Name": "Fried Rice",
+        "Ingredients": "⅔ cup chopped baby carrots ½ cup frozen green peas  2 tablespoons vegetable oil 1 clove garlic, minced, or to taste (Optional) 2 large eggs 3 cups leftover cooked white rice 1 tablespoon soy sauce, or more to taste 2 teaspoons sesame oil, or to taste",
+        "Calories": "280",
+        "Direction": "Place carrots in a small saucepan and cover with water. Bring to a low boil and cook for 3 to 5 minutes. Stir in peas, then immediately drain in a colander. Step 2 Heat a wok over high heat. Pour in vegetable oil, then stir in carrots, peas, and garlic; cook for about 30 seconds. Add eggs; stir quickly to scramble eggs with vegetables. Step 3 Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again."  
+}
+
+
 
 
 ### PUT contact

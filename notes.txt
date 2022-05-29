@@ -6,3 +6,4 @@ to push to heroku
 
 git push heroku main 
 
+npm run swagger

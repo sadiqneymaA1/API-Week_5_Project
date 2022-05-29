@@ -2,7 +2,7 @@
   "swagger": "2.0",
   "info": {
     "title": "My API",
-    "description": "Contacts Project",
+    "description": "Recipee Project",
     "version": "1.0.0"
   },
   "host": "localhost:8080",
@@ -23,7 +23,7 @@
         }
       }
     },
-    "/contacts/": {
+    "/recipe/": {
       "get": {
         "description": "",
         "produces": [
@@ -45,19 +45,16 @@
             "schema": {
               "type": "object",
               "properties": {
-                "firstName": {
+                "Food_Name": {
                   "example": "any"
                 },
-                "lastName": {
+                "Ingredient": {
                   "example": "any"
                 },
-                "email": {
+                "calories": {
                   "example": "any"
                 },
-                "favoriteColor": {
-                  "example": "any"
-                },
-                "birthday": {
+                "Direction": {
                   "example": "any"
                 }
               }
@@ -74,7 +71,7 @@
         }
       }
     },
-    "/contacts/{id}": {
+    "/recipe/{id}": {
       "get": {
         "description": "",
         "produces": [
@@ -109,19 +106,16 @@
             "schema": {
               "type": "object",
               "properties": {
-                "firstName": {
+                "Food_Name": {
                   "example": "any"
                 },
-                "lastName": {
+                "Ingredient": {
                   "example": "any"
                 },
-                "email": {
+                "calories": {
                   "example": "any"
                 },
-                "favoriteColor": {
-                  "example": "any"
-                },
-                "birthday": {
+                "Direction": {
                   "example": "any"
                 }
               }
