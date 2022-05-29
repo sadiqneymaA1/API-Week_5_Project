@@ -1,31 +1,49 @@
 {
-    "bucket_1": {
-      "Food_Name": "CheeseBurger",
-      "recipe": "amazingwoman@test.com",
-      "chalories": "Green",
-      "birthday": "12/12/20"
+    "Food_1": {
+      "Food_Name": "Jollof Rice",
+      "Ingredients": "1 tablespoon olive oil 1 large onion, sliced 2 (14.5 ounce) cans stewed tomatoes ½ (6 ounce) can tomato paste 1 teaspoon salt ¼ teaspoon black pepper ¼ teaspoon cayenne pepper ½ teaspoon red pepper flakes 1 tablespoon Worcestershire sauce  1 teaspoon chopped fresh rosemary 2 cups water 1 (3 pound) whole chicken, cut into 8 pieces 1 cup uncooked white rice 1 cup diced carrots ½ pound fresh green beans, trimmed and snapped into 1 to 2 inch pieces ¼ teaspoon ground nutmeg",
+      "calories": "284",
+      "Directions": "Step 1 Pour oil into large saucepan. Cook onion in oil over medium-low heat until translucent. Step 2 Stir in stewed tomatoes and tomato paste, and season with salt, black pepper, cayenne pepper, red pepper flakes, Worcestershire sauce and rosemary. Cover, and bring to a boil. Reduce heat, stir in water, and add chicken pieces. Simmer for 30 minutes. Step 3 Stir in rice, carrots, and green beans, and season with nutmeg. Bring to a boil, then reduce heat to low. Cover, and simmer until the chicken is fork-tender and the rice is cooked, 25 to 30 minutes."
     },
-    "bucket_5": {
+    "Food_2": {
       "Food_Name": "CheeseBurger",
-      "recipe": "amazingwoman@test.com",
-      "chalories": "Green",
-      "birthday": "12/12/20"
+      "Ingredients": "Ingredients 1 lb. ground beef (80/20) 1 lb. ground sirloin (90/10) 1 tbsp. Worcestershire sauce 1 tsp. kosher salt 1 tsp. ground black pepper 1 tbsp. vegetable oil 4 toasted hamburger buns Optional toppings: American cheese, shredded iceburg lettuce, sliced tomato, sliced red onion, dill pickle slices, ketchup, mustard, and mayonnaise",
+      "calories": "345",
+      "Direction": "Combine the ground beef, ground sirloin, Worcestershire sauce, salt, and pepper in a large bowl. Gently mix the beef mixture to thoroughly combine with the seasoning. Divide the mixture into 4 even portions, about 8 ounces each. Pat each portion into a ball (but not too tightly), then press into one-inch thick patties. On the stovetop: Heat a large cast-iron skillet over medium-high heat. Add 1 tablespoon of vegetable oil and swirl to coat the pan. Place the patties in the skillet and let cook for 3 to 4 minutes until golden and crusty. Flip and cook the other side until the internal temperature of the burger reaches 135˚ (for medium doneness), about 3 more minutes. If you like cheese on your burgers, add it during the last minute of cooking, then cover to melt. Alternatively cook on the grill: Preheat your grill over medium-high heat, 400 to 425˚. Oil the grill grates. Place the patties on the grill over direct heat. Cook for 3 to 4 minutes per side, covered, or until the internal temperature reads 135˚ (for medium doneness). If you like cheese on your burgers, add it during the last minute of cooking, then cover to melt.Serve immediately on toasted buns with whatever toppings you like!"
     },
-      "bucket_2": {
+      "Food_3": {
 
-        "Food_Name": "CheeseBurger",
-        "recipe": "amazingwoman@test.com",
-        "chalories": "Green",
-        "birthday": "12/12/20"
+        "Food_Name": "Fried Rice",
+        "Ingredients": "⅔ cup chopped baby carrots ½ cup frozen green peas  2 tablespoons vegetable oil 1 clove garlic, minced, or to taste (Optional) 2 large eggs 3 cups leftover cooked white rice 1 tablespoon soy sauce, or more to taste 2 teaspoons sesame oil, or to taste",
+        "Calories": "280",
+        "Direction": "Place carrots in a small saucepan and cover with water. Bring to a low boil and cook for 3 to 5 minutes. Stir in peas, then immediately drain in a colander. Step 2 Heat a wok over high heat. Pour in vegetable oil, then stir in carrots, peas, and garlic; cook for about 30 seconds. Add eggs; stir quickly to scramble eggs with vegetables. Step 3 Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again."
 
 },
 
-"bucket_9": {
+"Food_4": {
 
-  "Food_Name": "Chocolate2",
-  "recipe": "amazingwoman@test.com",
-  "chalories": "blue",
-  "birthday": "12/12/20"
+  "Food_Name": "Yam and Sauce",
+  "Ingredients": "1kg (2.2 lbs) white puna yam 200g Nigerian pumpkin leaves Palm oil 200g ukpaka (shredded oil bean seeds) Ogiri Igbo (castor bean paste) 1 Habanero/Scotch Bonnet pepper or to taste Salt",
+  "chalories": "280",
+  "Direction": "Boil the yam, vegetable and ukpaka positioned the yam pieces in a pot and pour water to cowl the yams. region the tied greens and ukpaka on top and prepare dinner until the ukpaka and veggies are gentle. retain cooking the yam if now not finished. Make the vegetable sauce Pound the habanero pepper in a mortar until easy. while the ukpaka and pumpkin leaves are tender (from step 2 above), pound them inside the identical mortar one after the alternative till they’re as smooth as viable. upload palm oil to the combo till you get a consistency you want and blend thoroughly. upload salt and ogiri Igbo in your taste and blend with the pestle until the whole thing is well included. Dish in a serving bowl and set aside."
+
+},
+
+"Food_5": {
+
+  "Food_Name": "Shawarma",
+  "Ingredients": "½ cup malt vinegar  ¼ cup plain yogurt 1 tablespoon vegetable oil salt and pepper to taste 1 teaspoon mixed spice ¼ teaspoon freshly ground cardamom 8 skinless, boneless chicken thighs ½ cup tahini ¼ cup plain yogurt ½ teaspoon minced garlic 2 tablespoons lemon juice 1 tablespoon olive oil 1 tablespoon chopped fresh parsley salt and pepper to taste 4 medium tomatoes, thinly sliced ½ cup sliced onion 4 cups shredded lettuce 8 pita bread rounds",
+  "chalories": "402",
+  "birthday": "In a glass baking dish, mix together the malt vinegar, 1/4 cup yogurt, vegetable oil, mixed spice, cardamom, salt and pepper. Place the chicken thighs into the mixture and turn to coat. Cover and marinate in the refrigerator for at least 4 hours or overnight. Step 2 Preheat the oven to 350 degrees F (175 degrees C). In a small bowl, mix together the tahini, 1/4 cup yogurt, garlic, lemon juice, olive oil, and parsley. Season with salt and pepper, taste, and adjust flavors if desired. Cover and refrigerate. Step 3 Cover the chicken and bake in the marinade for 30 minutes, turning once. Uncover, and cook for an additional 5 to 10 minutes, or until chicken is browned and cooked through. Remove from the dish, and cut into slices. Step 4 Place sliced chicken, tomato, onion, and lettuce onto pita breads. Roll up, and top with the tahini sauce."
+
+},
+
+"Food_6": {
+
+  "Food_Name": "Meat Pie",
+  "Ingredients": "In a glass baking dish, mix together the malt vinegar, 1/4 cup yogurt, vegetable oil, mixed spice, cardamom, salt and pepper. Place the chicken thighs into the mixture and turn to coat. Cover and marinate in the refrigerator for at least 4 hours or overnight. Step 2 Preheat the oven to 350 degrees F (175 degrees C). In a small bowl, mix together the tahini, 1/4 cup yogurt, garlic, lemon juice, olive oil, and parsley. Season with salt and pepper, taste, and adjust flavors if desired. Cover and refrigerate. Step 3 Cover the chicken and bake in the marinade for 30 minutes, turning once. Uncover, and cook for an additional 5 to 10 minutes, or until chicken is browned and cooked through. Remove from the dish, and cut into slices. Step Place sliced chicken, tomato, onion, and lettuce onto pita breads. Roll up, and top with the tahini sauce.",
+  "chalories": "350",
+  "birthday": "Step 1 Preheat the oven to 425 degrees F (220 degrees C). Place the potato in a saucepan with enough water to cover. Bring to a boil, and cook until tender, about 5 minutes. Drain, mash, and set aside. Step 2 Meanwhile, crumble the ground beef and pork into a large saucepan, and add the garlic, onion and water. Season with mustard powder, thyme, cloves and salt. Cook over medium heat, stirring to crumble the meat and mix in the spices, until the meat is evenly browned. Remove from the heat, and mix in the mashed potato. Step 3 Place one of the pie crusts into a 9 inch pie plate. Fill with the meat mixture, then top with the other pie crust. Prick the top crust a few times with a knife to vent steam. Crimp around the edges using the tines of the fork, and remove any excess dough. Cover the edges of the pie crust with aluminum foil. Step 4 Bake for 25 minutes in the preheated oven, or until the crust has browned. Serve by itself, or with a beef gravy."
 
 }
 }
