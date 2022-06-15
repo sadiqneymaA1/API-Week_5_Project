@@ -1,6 +1,8 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const mongodb = require('./db/connect');
+const cors = require('cors');
+
 const app = express();
 const { auth, requiresAuth } = require('express-openid-connect');
 require('dotenv').config();
@@ -13,7 +15,7 @@ const config = {
   clientID: process.env.CLIENT_ID,
   issuerBaseURL: process.env.ISSUER_BASE_URL,
 };
-
+app.use(cors())
 // req.isAuthenticated is provided from the auth router
 /*app.get('/', (req, res) => {
   res.send(req.oidc.isAuthenticated() ? 'Logged in' : 'Logged out');

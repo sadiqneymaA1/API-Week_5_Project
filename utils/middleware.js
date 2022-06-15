@@ -1,15 +1,15 @@
-const Validator = require('validator');
+const validator = require( './validate');
 
 
 const recipee_secure = (req, res, next) => {
-    const validator = {
-        "Food_Name": "required|string",
-        "Ingredients": "required|string",
-        "phone": "required|string",
-        "password": "required|string|min:6|confirmed",
+    const validation_rule = {
+        Food_Name: "required|string",
+        Ingredients: "required|string",
+        Benefits: "required|string",
+        Direction: "required|string",
         
     }
-    validator(req.body, validationRule, {}, (err, status) => {
+    validator(req.body, validation_rule, {}, (err, status) => {
         if (!status) {
             res.status(412)
                 .send({
