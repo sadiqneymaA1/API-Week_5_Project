@@ -30,17 +30,19 @@ app.use(cors())
 });*/
 
 // auth router attaches /login, /logout, and /callback routes to the baseURL
+
+
 app
   .use(auth(config))
   .use(bodyParser.json())
-  .use('/', require('./routes'))
+  
   .get('/', (req, res) => {
     res.send(req.oidc.isAuthenticated() ? 'Logged in' : 'Logged out');})
   .get('/profile', requiresAuth(), (req,res) =>{
       //res.send(JSON.stringify(req.oidc.user));
       const user = req.openId?.oidc.user
       res.status(200).json({user});
-  });
+  }).use('/', require('./routes'));
 
 mongodb.initDb((err, mongodb) => {
   if (err) {
